@@ -5,10 +5,12 @@ Hi, this is a repository created from Miguel Martínez to Tango company. This is
 I created a backend in Express Js Framework 4.17.3 and frontedn in ReactJs library 17.0.2.
 
 ## General Setup:
-### Download and install node js:
-    go to https://nodejs.org/es/download/
-    download and install the latest version depend your OS.
-### Clone this repository
+
+#### Download and install node js:
+go to https://nodejs.org/es/download/
+download and install the latest version depend your OS.
+
+#### Clone this repository
     $ git clone https://github.com/maikosoft/tango-test.git
     $ cd tango-test
 
