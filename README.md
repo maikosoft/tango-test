@@ -22,7 +22,7 @@ Now the API backend is running on port 3000
 
 ## Frontend setup:
     $ go to root project directory (tango-test)
-    $ cd  frontend
+    $ cd frontend
     $ npm install
     $ npm start
 Now the frontend is running on port 3001

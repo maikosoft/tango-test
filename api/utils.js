@@ -1,7 +1,6 @@
 const getFibonnacci = (sended) => {
   let found = false;
   let fibonacci = [];
-  console.log(sended);
   for(let i = 0; found == false; i++) {
     if(i == 0 || i == 1) {
       fibonacci.push(i);

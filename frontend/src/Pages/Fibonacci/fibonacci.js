@@ -25,7 +25,7 @@ export default function Fibonacci() {
 
     // Set answer to -- when user focus on input
     useEffect(() => {
-        if (number == '') {
+        if (number === '') {
             setAnswer('--'); 
         }
     }, [number]);
